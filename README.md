@@ -12,6 +12,6 @@
 
 
 
-Notion : https://sheer-cupcake-36d.notion.site/8-1-6f87665bd6244739a9f0325a3811bd71?pvs=4
+Notion : https://www.notion.so/Hi-I-m-Yuhan-Park-1-48e56bf44af645d3974c837a36183fa2?pvs=4
 
 
