@@ -11,6 +11,8 @@
   </a>
 </span>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=박유한의+깃허브에+오신것을+환영합니다;인천대학교+정보통신공학과)](https://git.io/typing-svg)
+
 
 </div>
 
