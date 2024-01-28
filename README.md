@@ -5,6 +5,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=66cdaa&height=150&section=header&text=pbk2312&fontColor=a8b2fc&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Java-ff69b4?style=plastic&logo=Java&logoColor=white"/>
+  </a>
+</span>
+
 
 </div>
 
