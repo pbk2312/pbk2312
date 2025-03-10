@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Github+!!;환영합니다)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk2312&show_icons=true&theme=radical)
+
 
 
 </div>
