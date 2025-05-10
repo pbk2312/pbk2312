@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=0" width="100%"/>
 
   <!-- Profile Title -->
-  <h1 align="center">👋 안녕하세요, 저는 <b>박유한</b>입니다</h1>
+  <h1 align="center">👋 안녕하세요</h1>
   <p align="center">인천대학교 정보통신공학과 재학 중 | 2025년 8월 졸업 예정</p>
 
   <!-- Badges -->
