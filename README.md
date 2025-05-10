@@ -1,39 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-
+<!-- Updated README with polished, aesthetic design -->
 
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=venom&color=66cdaa&height=150&section=header&text=pbk2312&fontColor=a8b2fc&fontSize=70&animation=fadeIn&fontAlignY=55)
+  <!-- Shiny Header Waves -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<span>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot Security-6DB33F?style=for-the-badge&logo=SpringBoot Security&logoColor=white">
+  <!-- Profile Title -->
+  <h1 align="center">👋 안녕하세요, 저는 <b>박유한</b>입니다</h1>
+  <p align="center">인천대학교 정보통신공학과 재학 중 | 2025년 8월 졸업 예정</p>
 
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://spring.io/projects/spring-boot">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    </a>
+    <a href="https://www.java.com/">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    </a>
+    <a href="https://github.com/pbk2312">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-
-
-
-</span>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Github+!!;환영합니다)](https://git.io/typing-svg)
-
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 
+---
+
+## 🛠️ 기술 스택
+
+| 프론트엔드    | 백엔드                                   | 데이터베이스 | DevOps              |
+| -------------- | ---------------------------------------- | ------------ | ------------------- |
+| HTML, CSS      | Java, Spring Boot, Spring Security       | MySQL,MariaDB        | Docker              |
+| Thymeleaf     | Python                          | Redis        | Git, GitHub Actions |
+|                | Elasticsearch                            |              | Kubernetes (학습 중) |
+
+---
+
+## 📈 GitHub 통계
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pbk2312&show_icons=true&theme=radical&locale=ko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbk2312&layout=compact&theme=radical&locale=ko" alt="Top Languages" />
+</p>
 
 
+---
 
+## 🤝 연락하기
 
+<p align="center">
+  <a href="mailto:pbk2312@inu.ac.kr">✉️ 이메일 보내기</a> |
+  <a href="https://velog.io/@pbk2312" target="_blank">✍️ 벨로그 방문하기</a>
+</p>
 
-
-
-
+<!-- Proudly created with love ❤️ -->
