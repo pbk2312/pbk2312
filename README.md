@@ -36,9 +36,9 @@
 
 | 프론트엔드    | 백엔드                                   | 데이터베이스 | DevOps              |
 | -------------- | ---------------------------------------- | ------------ | ------------------- |
-| HTML, CSS      | Java, Spring Boot, Spring Security, Kotlin       | MySQL,MariaDB        | Docker              |
-| Thymeleaf     |                           | Redis,Caffeine Cache        | Git, GitHub Actions |
-|                React|                             |              | AWS |
+| HTML, CSS      | Java, Kotlin       | MySQL,MariaDB        | Docker              |
+| Thymeleaf     |                          Spring Boot | Redis,Caffeine Cache        | Git, GitHub Actions |
+|                React|                             Spring Security, Spring Data JPA|              | AWS |
 
 ---
 
